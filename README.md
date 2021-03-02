@@ -8,6 +8,6 @@ A place to save, run, and manage scripts or files.
 - Click active process to manage and focus the tabs
 
 # ToDo
-- Thinner and more friendly layout better suited to a small manager
-- Merge active and dormant tabs and differentiate with colour
-- Use SSH to control tabs an a remote system
+- [ ] Thinner and more friendly layout better suited to a small manager
+- [x] Merge active and dormant tabs and differentiate with colour
+- [ ] Use SSH to control tabs an a remote system
